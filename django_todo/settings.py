@@ -31,7 +31,8 @@ SECRET_KEY = 'django-insecure-rku^tn+ong#ub7am7#ge-e)z%xoj&)@l#a=bj-w@61^6xsffpw
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-fabi8bit-cifsfhellodjan-rdeqb0vb2xi.ws-eu100.gitpod.io']
+ALLOWED_HOSTS = ['fabi8bit-django-todo-app-2ac75e278a30.herokuapp.com']
+# ALLOWED_HOSTS = ['8000-fabi8bit-cifsfhellodjan-rdeqb0vb2xi.ws-eu100.gitpod.io']
 
 
 # Application definition
